@@ -1,4 +1,4 @@
-# I Built an SSH Honeypot and Got Attacked
+# I Built a SSH Honeypot and Got Attacked
 
 I set up a fake SSH server on my Raspberry Pi to see what real attackers actually do. Actually I attacked it using Hydra and some basic RCE. Here's what I found.
 
